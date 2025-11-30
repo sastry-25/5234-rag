@@ -1,0 +1,709 @@
+ 
+ 
+1 
+ 
+CHEMISTRY 1210 LAB – AUTUMN 2025 
+General Chemistry I Lab Syllabuson 
+ 
+INTRODUCTION 
+ 
+Instructional Team 
+Lab Supervisors: Dr. Bernice Opoku-Agyeman 
+Dr. Camila Fontes Neves da Silva 
+Lecturer: Refer to the lecture syllabus 
+Course Coordinator: Sophie White 
+Office & SLDS Contact: Holly Wheaton 
+TA: (Varies with recitation/lab section) 
+ 
+Please see the “Contacts” page in Carmen for information on your instructors and who to contact for 
+your unique needs. 
+   
+Lab Supervisor 
+Email: 
+ 
+ 
+Lab Supervisor 
+Office Hours: 
+ 
+ 
+ 
+Out of Class 
+Assistance: 
+ 
+chem1210labsupervisor@osu.edu 
+All emails should be sent to the email address above contacting the lab supervisors. Emails 
+sent to personal accounts or via Carmen will not be responded to. 
+ 
+Mondays 2 PM – 3 PM; Wednesdays 10 AM – 11 AM; Thursdays 1 PM – 2 PM. 
+Note: Lab Supervisor office hours are on Zoom (https://go.osu.edu/labsupohzoom ). The link 
+is also available on Carmen.  In-person office hours are available upon request. Office hours 
+times and Zoom link can also be found here. 
+ 
+Information regarding operation hours of the Chemistry Success Center (CSC) in rooms CE 
+170 and CE205/305 may be found on Carmen and here.  Your TA will reach out during the 
+first week of class to communicate the specific day and time of their shift. 
+ 
+Welcome to CHEM 1210 Lab! We are excited to explore General Chemistry concepts and laboratory skills 
+with you this semester. Our goal is that you leave this course with an appreciation of how chemistry impacts your 
+everyday lives. We also want to provide you with laboratory skills in chemistry that will facilitate your success in 
+future science courses and careers.   
+This syllabus outlines the resources, policies, and procedures that will ensure your success in the General 
+Chemistry lab. Please familiarize yourself with this syllabus and keep it in a convenient place for reference 
+throughout the semester (buckle up—it’s a big course, so it’s got a big syllabus). You may find it helpful to 
+download the syllabus on the Notability iPad app  (or a similar app)  to make personal notes on it. If you have 
+questions or concerns about the syllabus itself, please contact the lab supervisors at the email address listed at 
+the top of this syllabus. 
+ 
+REQUIRED MATERIALS 
+ 
+TEXTBOOK: The textbook for the lecture is Chemistry: The Central Science, 15 th edition, by Brown, LeMay, 
+Bursten, Murphy, Woodward, & Stoltzfus. Refer to the lecture syllabus for information on other required lecture 
+materials.  
+  
+                                               AUTUMN 2025  
+2 
+ 
+LAB MANUAL: You will be using Chemistry 1210 General Chemistry Laboratory Manual. Van-Griner Publishing, 
+Inc. New 2025 combination print/e-book Edition. The lab manual is included in CarmenBooks.  This means that you 
+are automatically charged for the lab manual  when you enroll in the General Chemistry course. The cost of the lab 
+manual will show up as part of the  course fees. Therefore, you do not need to purchase the lab manual unless you 
+have opted out of CarmenBooks. Follow this link to learn more about CarmenBooks and information on opting out: 
+CarmenBooks for Students | Affordable Learning Exchange (osu.edu). Students who opted out of CarmenBooks 
+are required to purchase access to the current version of the lab manual through the Van -Griner website or 
+the University Bookstore. Physical manuals will be distributed in lab. 
+ 
+VAN-GRINER / LABRIGHT: Your purchase of the digital lab manual includes access to a digital lab manual, Pre-
+Labs and Post-Labs on the LabRight platform as well as a physical lab manual you will receive in lab. LabRight Post-
+Labs are used with each experiment to grade your data, calculations, and Post -Lab questions. Students who opted 
+out of CarmenBooks will be required to complete the LabRight registration form at van-griner.com/osu-chem before 
+September 5th to ensure no lapse in access. Upon registering here, Van-Griner will send you a purchase link and you 
+will need to complete payment. On September 9th, any student who opted out of CarmenBooks and has not registered 
+and paid will lose access to LabRight. To re- gain access (and restore saved work) you will need to register on Van-
+Griner’s website, and they will restore access by the 9 am the business day after payment is received.   
+ 
+Visit https://van-griner.com/osu-chem for detailed instructions for accessing and using LabRight.  All LabRight links 
+and assignments must be accessed directly through Carmen to ensure your grades and accounts sync. 
+ 
+LAB NOTEBOOK: Students may use the paper copy of the notebook pages provided for each experiment in the 
+lab manual or use a downloaded copy in Notability (or a similar app) on a device that has a digital note-taking capability 
+(such as an iPad, tablet or 2-in-1 laptop/tablet). See page 7 for more information about lab notebooks for this semester. 
+REQUIRED SOFTWARE: Microsoft Office Suite (specifically Word and Excel). All Ohio State students are eligible 
+for free Microsoft Office 365 ProPlus through Microsoft’s Student Advantage program. See office365.osu.edu for more 
+information. 
+ 
+GENERAL COURSE INFORMATION 
+ 
+WILL YOU MISS MORE THAN ONE LAB? 
+If you know you will miss more than one in- person laboratory period (for OSU athletic competitions, military 
+training/duties, religious observances, etc.), please see/contact Holly Wheaton  (wheaton.4@osu.edu) by Friday, 
+August 29 th in order  to move to a laboratory section that minimizes  scheduling conflicts, space permitting. 
+Unfortunately, we cannot accommodate more than one lab absence, so we strongly encourage you to plan ahead. 
+LATE ENROLLMENT OR SWITCHING SECTIONS:  If you enroll in the course or switch sections (either 
+lecture or lab) after the semester begins, you must r each out to the lab supervisors within 48 hours of making the 
+enrollment or switch. Contacting the lab supervisors within 48 hours of the switch will ensure that any transferable 
+grades and/or missed lab work (including retaking any of the Mandatory Quizzes, see page 3) due to the late 
+enrollment or section switch are accommodated appropriately. After 48 hours, r equests for make- up assignments 
+and/or deadline extensions are not guaranteed. 
+COURSE POLICIES: This course adheres to the University policies related to Academic Misconduct, 
+Artificial Intelligence, Religious Accommodations, Disability Accommodations, Intellectual Diversity, 
+Grievances and Solving Problems, and Creating an Environment Free from Harassment, Discrimination, 
+and Sexual Misconduct.  For more information about any of these policies, please visit the Office of 
+Undergraduate Education Standard Syllabus Statements webpage. 
+More information about Faith-Related Absences in General Chemistry:  In accordance with Ohio State policy, 
+you may be absent from this class for up to three days  to observe sincerely held religious beliefs and practices, or 
+to participate in organized activities conducted under the auspices of a religious or spiritual organization. 
+To request a faith-related absence in for CHEM 1210 lab, you must notify genchem@osu.edu IN WRITING of ALL 
+specific dates for which you are requesting religious accommodations no later than September 9th.   
+                                               AUTUMN 2025  
+3 
+ 
+CARMEN: Carmen is the central hub where the course is conducted. You will find important resources and 
+information such as announcements, overview pages for each experiment, and lab assignments on Carmen. To 
+ensure that you have successful lab experience, we encourage students to carefully read the syllabus to become 
+familiar with the course content, procedures, and grading policies. Please note that information presented in the 
+syllabus, overview pages, and announcements on Carmen supersede any other source and are the most reliable 
+resources to keep you on track to successfully complete your lab-related tasks and assignments. 
+LAB TEAM COMMUNICATION: The Lab Supervisors will be posting "Announcements" in your Carmen course 
+that outline experiment tips, preparation instructions, and important details. Go to the Announcements area in the 
+Carmen navigation bar to see all  these messages. They are never deleted and are searchable. You can also set 
+Carmen to send you an email every time an announcement is posted; explicit instructions on how to do so are at the 
+following web address: 
+www.go.osu.edu/notificationsettings. We highly encourage students to regularly read 
+announcements posted by the Lab Supervisors on Carmen. 
+ 
+The lab supervisors are here to support you on your chemistry journey, so please reach out to us with your questions 
+and concerns about lab. If you have a question about a policy, procedure, or need clarification, please email the Lab 
+Supervisors at chem1210labsupervisor@osu.edu. You will not receive a response if your message is sent to an 
+incorrect email address or via the Carmen Inbox system. You must use your OSU email account when emailing the 
+Lab Supervisors. Be sure to include the following information in your email to help the Lab Supervisors get back to 
+you faster: 
+• Your TA’s name 
+• Your Lecturer’s name 
+• The day and time of your lab 
+• 5- digit lab section number 
+ 
+Please note that emails sent over the weekend, or a holiday may not be answered until after the weekend/ break. 
+ZOOM OFFICE HOURS: This semester, the lab supervisors will have their office hours on Zoom. You can click 
+on the link to the right (go.osu.edu/labsupoh), or simply type it into your web browser. 
+ 
+To ensure we cultivate a safe and comfortable online learning environment, we encourage all of us to be professional, 
+respectful, and focused when joining office hours on Zoom. Please be mindful of others while online.  Links and 
+information posted in the chat window are only available to students who are present at the time the links are posted. 
+Please make sure your first and last name are displayed during any online office hours. 
+OVERVIEW PAGES: This is where to start for every lab! For each experiment, there is an Overview page in the 
+Lab Modules section of Carmen. The Overview pages contain helpful information, experiment videos, and required 
+assignments for each experiment. 
+MANDATORY QUIZZES 
+ 
+Introductory assignments do not contribute to your course grade but must be completed with a 100% score to pass 
+this course.  
+ 
+Complete the Academic Misconduct Quiz by 11:59 PM, Sunday, August 31st. Refer to the lecture syllabus for 
+more information. Please reach out to the general chemistry office (genchem@osu.edu) If you have any concerns 
+about this policy. 
+ 
+In addition to the Academic Misconduct Quiz, you are required to complete the following assignments before you 
+can participate in laboratory activities. Please check Carmen for the specific due dates of these assignments. You 
+should complete these assignments in the order listed below. 
+ 
+1. Lab Safety Statement: A score of 100% on this assignment unlocks the Safety and Lab Policies Quiz. 
+Be sure to complete this assignment before your first in-person lab session. 
+2. Safety and Lab Policies Quiz: A score of 100% unlocks the remainder of the lab module. You can only 
+access the Safety and Lab Policies quiz after completing the Lab Safety Statement. 
+3. CAK Post-lab “Introduction to LabRight”: A score of 100% on the CAK Introduction to LabRight 
+linked in Carmen unlocks the remainder of the lab module. It is designed to introduce you to key features of  
+                                               AUTUMN 2025  
+4 
+ 
+the Post-Lab and Data Analysis Worksheets you will be completing this semester and shows you how to get 
+the most out of them. 
+ 
+Completing the assignments above before your first lab section should prepare you well for the lab. Please note that 
+any lab assignments you miss because you failed to complete the Introductory quizzes will not be re-opened for you. 
+ 
+EXPECTED LEARNING OUTCOMES 
+ 
+In Chemistry 1210 lab is a significant aspect of your chemistry learning experience in CHEM 1210, and the following 
+are the goals and learning outcomes you will accomplish in the lab: 
+• Qualitatively and quantitatively examine curriculum presented in lecture, such as atomic and molecular 
+structure, chemical reactivity, thermochemistry, and chemical calculations in an active laboratory setting. 
+• Practice laboratory methods applicable to chemists of all levels. 
+• Create, and demonstrate the proper use of, a well-prepared laboratory notebook and evaluate the 
+importance of organized scientific data collection and data integrity. 
+• Demonstrate the ability to interpret data, evaluate conclusions supported and not supported by experimental 
+results, and compare and contrast chemical methods, as communicated through Post-Labs. Demonstrate 
+the safe handling and proper disposal techniques for all materials used in the lab. 
+ 
+LABORATORY SCHEDULE 
+ 
+Your laboratory consists of one 2-hour and 55-minute session each week. All students will work in the laboratory only 
+during their scheduled laboratory period. Students will only work on the experiment listed on the syllabus for that day. 
+The lab schedule on the next page shows the experiment you will be completing each week in lab. Please note that 
+while the lab is 2 hours and 55-minutes long, the last 15 mins is designated for cleaning up. Therefore, you must stop 
+all lab work and start cleaning up once it is 15 mins to the end of the lab.  
+ 
+If you are unable to finish a laboratory experiment during the designated time, please contact the Lab Supervisor, via 
+email, within 24 hours of the lab start time  so we can discuss the lab make- up process and procedures. Please, 
+read details about the supplementary data and make-up policies on pages 9 and 10.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+                                               AUTUMN 2025  
+5 
+ 
+Laboratory Schedule 
+1210 Laboratory Activity Schedule 
+Week of Monday Tuesday Wednesday Thursday Friday 
+Aug 25 – 29  X   X   X   X   
+Sept 1 – 5 Labor Day† Check-In/WRM Check-In/WRM Check-In/WRM Check-In/WRM 
+Sept 8 – 12 Check-In/WRM CPC CPC CPC CPC 
+Sept 15 – 19 CPC MSR MSR MSR MSR 
+Sept 22 – 26 MSR PbI PbI PbI PbI 
+Sept 29 – Oct 3 PbI CYC CYC CYC CYC 
+Oct 6 – 10 CYC LLT LLT LLT LLT 
+Oct 13 – 17 LLT X   X   Fall Break† 
+Oct 20 – 24 X   IHT IHT IHT IHT 
+Oct 27 – 31 IHT EMS EMS EMS EMS 
+Nov 3 – 7 EMS QUL QUL QUL QUL 
+Nov 10 – 14 QUL Veterans Day† MGB MGB MGB 
+Nov 17 – 21 MGB MGB GAS GAS GAS 
+Nov 24 – 28 GAS GAS Thanksgiving Break† 
+Dec 1 – 5 Make-Up* Make-Up* Make-Up* Make-Up* Make-Up* 
+Dec 8 – 12 X   X   X   Reading Day Final Exams 
+X = Labs will be cancelled   
+        †= University Holiday. Due dates for lab assignments that fall on University Holidays will be extended  
+*Students assigned to the end of semester make-up will complete it during their regularly scheduled lab time during their 
+lab on the week of Dec 1st to Dec 5th . The make-up cannot be rescheduled. 
+ 
+ 
+PREPARING FOR FIRST DAY OF IN-PERSON LAB 
+ 
+PROPER LABORATORY ATTIRE: The clothing you wear to lab must provide skin protection from chemical spills 
+and splashes.  Ankles and feet must be completely covered . Please refer to the LABORATORY SAFETY 
+REQUIREMENTS on page 11 for a more detailed discussion. 
+LAB COATS: Each student is required to purchase a lab coat to wea r during General Chemistry labs.  We 
+recommend purchasing your lab coat from the Chemistry store to wear during General Chemistry labs as they have 
+been specially selected to protect you from the hazards in the lab. For our general chemistry lab, lab coats should 
+cover the wearer to near the knees. They must be made of a polyester -cotton blend with no less than 35% cotton.  
+Please come prepared with a lab coat for your first in-person lab, otherwise you will unfortunately be sent home from 
+lab. Therefore, please give yourself plenty of time to purchase a lab coat before your first lab session.  
+ 
+Lab Coat Purchase : The Chemistry Store ( https://u.osu.edu/chems/) is located in 180 Celeste Lab and is open 
+Monday-Friday (closed on university holidays). Their hours vary during the semester, make sure to check their website 
+to get info on the hours of operation. The Chemistry Store is a university -run store and is not affiliated with the 
+Department of Chemistry and Biochemistry.    Credit cards, Apple Pay and Buck -ID are currently the only accepted 
+methods of payment at the Chemistry Store. You must have your lab coat by your first in- person lab session. When 
+you purchase your lab coat at the Chemistry Store, you will be provided with a plastic zip- top bag for storage and a 
+lab coat care sheet. If you are re-taking General Chemistry, you will be provided with a bag in your first lab session.  
+                                               AUTUMN 2025  
+6 
+ 
+ 
+You will keep your lab coat and goggles between lab sessions. Your TA will walk you through the lab coat protocol 
+during your first laboratory session. At the end of the course, you will keep your lab coat for future lab experiences. 
+ 
+Lab Coat Etiquette: Lab coats should be fully buttoned up when in the laboratory. We are not able to loan lab coats 
+to students if you forget your own lab coat. You should remove your lab coat before heading home, or to the bathroom 
+or drinking fountain. You may wear your lab coat when obtaining items from the stockroom window. You are not 
+permitted to sit on the benches in the hallway while wearing your lab coat. Never wear your lab coat at home.   Always 
+treat your lab coat as if it is contaminated. 
+GOGGLES: Each student in Chemistry 1210 will be provided with goggles for use in the General Chemistry 
+laboratory during their first in-person lab session. 
+ 
+LABORATORY ASSIGNMENTS & GRADING 
+ 
+LAB POINT DISTRIBUTION : The laboratory component of CHEM 12 10 is worth 20% of your overall course 
+grade. Therefore, your total points earned (out of the total 1100) will be scaled to contribute this percentage to your 
+overall course grade. For more information, see your lecture syllabus or Carmen gradebook. To ensure you develop 
+the necessary skills and competencies critical for your success in chemistry, you will need to earn 50% of the total 
+lab points (550/1100) to pass the course. Regardless of your grades in lecture, if you do not meet this minimum, 
+unfortunately you will be assigned an “E” grade in CHEM 1210. 
+Point Distribution for Each Lab 
+Abbreviation   Activity   LabRight 
+Pre-Lab   Notebook  
+LabRight 
+Post-
+Lab   
+Total   
+Check-In/WRM*  Introduction to the General Chemistry Laboratory   –  5  55  60  
+CPC Chemical and Physical Changes     15  15  70  100  
+MSR** Volumetric Glassware & Density   15  15  70  100  
+PbI** Synthesis and Characterization of Lead Iodide     15  15  70  100  
+CYC Investigation of a Copper Cycle   15  15  70  100  
+LLT** Quantitative Analysis of the Citric Acid Content in 
+Juices  15  15  70  100  
+IHT** Investigating Heat Transfer and Calorimetry   15  15  70  100  
+EMS† Emission of Light and Atomic Models   15    85  100  
+QUL Qualitative Determination of Selected Metal 
+Cations   15  15  70  100  
+MGB Molecular Geometry, Bonding, and Polarity   15    85 100  
+GAS** Exploring the Gas Laws with Alka-Seltzer®   15 15 80  100  
+– End of Semester Surveys  –   –    –  40 
+Overall Lab Total:   1100   
+ 
+*Students who attend lab in person do not complete a Post-Lab for Check-In and will receive 55 points for lab participation. 
+**This experiment has a Data Analysis Worksheet; the score is included in the Post -lab assignment on LabRight. 
+                                                                                                                                †This experiment does not have a notebook assignment. 
+  
+GRADING REVIEW REQUESTS : We are happy to review the grading of your lab assignments, if necessary. 
+However, please note that all requests for re-grading (Pre-Labs, Notebook, Post-Labs, etc.) should be made within 1 
+week of receipt of the graded work. You are required to discuss the grade with your TA first before contacting the lab 
+supervisors to request for re -grade. After receiving your request via email, the lab supervisors will first discuss the 
+grading process with your TA and then one of the Lab supervisors will re -grade the entire assignment. This revised 
+grade will then be final.   
+DATA INTEGRITY: Data integrity is critical to your success in chemistry. Thus, it is important to remember that 
+data and procedural information in your lab notebook cannot be altered in any way after you have left the lab. The  
+                                               AUTUMN 2025  
+7 
+ 
+data and written procedures recorded in your LabRight Post-Lab assignment (see below) should match the data and 
+procedures in your lab notebook, so we encourage students to be careful when copying procedure or data from your 
+notebook to your LabRight Post-Lab assignment. Changing data or adding detail to a written procedure in a LabRight 
+Post-Lab assignment is considered data fabrication. Common examples of data fabrication include adding zeros to 
+values, changing exact values or observations, or adding details to procedures. For more information, review the “A 
+Note About Data Integrity” page on Carmen and the “Standards of Academic Conduct in General Chemistry” below. 
+LATE SUBMISSIONS: All assignments are due by the date and time listed on Carmen.  Pre-Lab assignments 
+close at the start of the lab time  and no late assignments will be accepted or graded. Notebook Uploads submitted 
+after 48 hours from the start of the lab time will earn points deductions. 
+All LabRight Post-Labs will remain open for three (3) days past the due date listed in Carmen.  There will be a 20 % 
+deduction per day for Post-Labs that are fully submitted once the due date passes. After the 3-day period has passed, 
+submissions will no longer be accepted. Students are strongly encouraged to work ahead on the LabRight Post-Lab 
+assignment so they can contact the lab supervisors before the due date if they encounter issues while working on the 
+assignments. This ensures that there is enough time to provide any assistance needed. The lab supervisors may not 
+be able to help in a timely manner if a student contacts them once the due date of the assignment has passed. The 
+timestamp on your submission in LabRight is the official submission time and date.  
+Students who miss the deadlines due to extenuating circumstances are required to reach out to the lab supervisors 
+within 24 hours of the missed assignments. The lab supervisors will review your circumstances and make a decision 
+as to whether you will receive an exception to the submission deadline. Regardless of individual assignment due 
+dates, no Pre-Labs, Post-Labs or notebook uploads will be accepted after 11:59 PM on Tuesday, December 9th   
+2025.  
+LABORATORY ASSIGNMENT TYPES 
+ 
+Lab supervisors will provide information about each lab assignment in multiple ways.  The information may be provided 
+in this lab syllabus, via email, or on Carmen. On Carmen, this can include posted announcements, the overview page 
+in your laboratory module for each experiment, the instruction box for each assignment , and in some cases, 
+information embedded in the question itself.  
+PRE-LAB ASSIGNMENTS: To ensure that you are well-prepared to conduct experiments each week, Pre-Labs 
+need to be completed before the start time of your lab. Pre-Labs are available on LabRight and can only be accessed 
+through Carmen. We highly encourage you to read all Pre-Lab instructions carefully before you start the assignment. 
+Only have the Pre-Lab open when you are working on it. If the Pre-Lab has been idle for more than an hour, quit and 
+save your work, and re-open the link from Carmen. Working on more than one Pre-Lab at a time, or opening multiple 
+Pre-Labs in multiple tabs or browsers simultaneously is not allowed and may result in loss of submitted information or 
+other errors with the program. 
+ 
+You can only submit each Pre-Lab once; they cannot be reset for any reason. However, you can attempt each Pre-
+Lab question twice. After answering a Pre-Lab question, you may click on the "How Did I Do?" button at the top of the 
+question to see which answers are incorrect. You can then review the relevant topics and revise your response(s). 
+Your response(s) will not be graded until you submit the completed Pre- Lab by clicking the "Submit Assignment" 
+button. 
+ 
+Unfortunately, no credit (0) will be given if the Pre-Lab assignment is late. The assignment closes at the start of the 
+lab time. Please note that students cannot be excused from Pre- Labs of experiments that have been assigned to 
+them. 
+LABORATORY NOTEBOOK: The laboratory notebook is a permanent record of purpose, reference source of 
+your procedures, observations, data, and conclusions. As one of our Learning Outcomes, it is important to learn how 
+to create and keep a lab notebook as a General Chemistry student and scientist. You may use the paper copy of the 
+notebook pages provided for each experiment or use a downloaded copy in Notability (or a similar app) on a device 
+that has a digital note-taking capability (such as an iPad, tablet or 2-in-1 laptop/tablet). Please note that laptops cannot 
+be used as lab notebooks. Please also note that no information can be recorded on scratch paper or in other parts of 
+the lab manual during an in- person laboratory session. It is critical to ensure that all information recorded in a lab   
+                                               AUTUMN 2025  
+8 
+ 
+notebook, whether on paper or digitally recorded, is not altered in any way after leaving the lab.  
+ 
+To ensure a productive in-person lab experience, some part of your notebook should be prepared before the beginning 
+of lab, and you will earn up to 15 points for a well-prepared notebook that has all components. The notebook template   
+has spaces for purpose and procedure. You are expected to add a purpose and summary of procedure in the spaces 
+provided before coming to lab. You will go over how to prepare your lab notebook during the first day of lab. During 
+grading, your TA will assess your notebook prep and its contents and then assign you notebook points. Please note 
+that points will be deducted for missing components. Having a fully prepared notebook will ensure you understand lab 
+procedures, what data is to be collected in the lab, and any relevant safety concerns.  
+ 
+There are some experiments that require you to complete some in-lab activities in addition to collecting data prior to 
+leaving lab. These activities have been designed to provide some conceptual insight into what the experiment is about 
+and to encourage discussions among students and with the lab TA. T he In-Lab activities have been included at the 
+end of the notebook pages and you are expected to have all In-Lab activities completed in your lab notebook before 
+leaving lab. Please note that points may be deducted from your notebook score and lab performance points if you are 
+unable to complete these lab activities due to tardiness or lateness. You can read more about lab performance points 
+below.  
+ 
+ALL entries in your lab notebook  (or lab manual when applicable) should be recorded in Blue or Black pen  when 
+using either a digital or physical copy of the notebook. No white-outs or highlighters allowed to be used in the lab 
+notebook. Lab notebook guidelines are described in the ‘Guide for Success in the General Chemistry Laboratory’ 
+section of your laboratory manual (beginning on page xiii) . To protect your electronic device from chemical 
+contamination, students should place their device in a plastic bag during lab. You will be provided with one bag at the 
+beginning of the semester. Please do not discard this bag since a replacement bag will not be provided. You may 
+choose to use an electronic writing utensil such as an Apple Pencil or stylus in lab at your own risk. Please note that 
+we will not provide a protective barrier for them as we do for your iPads/tablets. If your electronic writing utensil should 
+become chemically contaminated, it must be disposed of as hazardous waste and will not be replaced. 
+ 
+For all in-person labs, a digital copy of your filled-in lab notebook should be submitted to Carmen within 48 hours after 
+the start time of your in-person lab. You can submit your digital copy in one of two ways: 
+ 1) a PDF exported from Notability or a similar app. 
+ 2) Scans/photos of physical notebooks. 
+ 
+Specific instructions for your notebook upload can be found in the relevant Carmen upload assignment. 
+ 
+Please note the following about your Notebook Uploads. 
+• The only accepted file types for submitting digital copies of notebook pages are docx and PDF.  
+• You must use the following file naming system:  lastname.#_firstname_semester&year_experimentcode. 
+For example, a lab notebook upload for experiment MSR in Autumn 2025 would have the file name 
+“Smith.1234_John_AU25_MSR”. 
+• Incorrect file name format will result in points deductions. An exception to the point deduction is the 
+notebook upload assignment for experiment WRM, the Check-In lab. 
+ 
+Please submit only a single file. All provided notebook pages containing the purpose, procedure citation, procedure, 
+data to collect and in-lab activity must be in the same file. Be sure to open your notebook in Carmen after submission 
+to ensure that all the pages have been fully submitted.  Unfortunately, if you do not submit a digital copy of your lab 
+notebook on time, your TA will not be able to grade your Post-Lab assignment and you will not receive the 15 notebook 
+points for the lab in question. If a digital copy of your notebook, with all procedure and data included, is not received 
+before the final deadline for lab work (Tuesday, December 9 th), you will only  earn your performance and/or 
+participation points for your Post-Lab. 
+Please note that for each specific experiment, you can still submit your lab notebook after the 48-hour window for a 
+5-point deduction unless the final deadline has passed.  Also, note that students cannot be excused from notebook 
+uploads of experiments that have been assigned to them. 
+ 
+Only pdf and docx submissions on Carmen will be accepted for lab notebooks. Submissions only containing links to 
+OneDrive, etc. folders, submissions via email, and submissions via comments in Carmen will not be accepted. Please 
+make sure you submit your notebook pages to the correct assignment dropbox in Carmen. Turning in notebook pages 
+to the wrong assignment dropbox will result in no credit for the notebook or the corresponding LabRight Post-Lab 
+once the final deadline to submit labs has passed on Tuesday, December 9th 2025. If you submit  your notebook  
+                                               AUTUMN 2025  
+9 
+ 
+pages for any experiment within a week of the final deadline, please contact your lab TA and notify them of your 
+submission in order for them to grade your LabRight Post-Lab for that experiment. 
+ 
+We encourage you to review your notebook pages  in Carmen after your submission to ensure you have submitted 
+what you intend to submit for that assignment. We can only accept the work you submit to the appropriate assignment 
+in Carmen. 
+ 
+Please do not re-upload your notebook pages once they have been graded with the intention of getting a higher score 
+unless a file exception has been made, as described below. Since notebooks uploaded after the 48-hour submission 
+window are considered late, re-uploading your notebook pages will result in your notebook grade being reduced by 5 
+points as a result of a late submission. 
+Notebook File Exception: For instances where submission requirements are not  met, students will be given one 
+exception to resubmit their notebook pages for one experiment in order to have the new pages regraded. If you want 
+to use your exception, you must contact the lab supervisors within a week of your  assignment being graded. If your 
+request for file exception is approved, we will waive the policy that prevents you from resubmitting your work for a 
+better grade. If the lab supervisor grants a file except ion, you must send the file to them within 48 hours  of 
+them approving the file exception. Conditions under which an exception will be granted are: 
+• Submitting the notebook pages for a different experiment 
+• Submitting the appropriate notebook pages to a different notebook assignment 
+• Naming the file incorrectly 
+• Accidentally submitting a blank file or missing any pages in the initial submission 
+• Correcting any formatting errors 
+• Request for a late penalty on notebook to be waived. 
+• Extenuating circumstances as determined by the lab supervisors 
+ 
+ 
+Please note that when a file exception is made, you cannot change the data in your previously uploaded notebook . 
+Changing the data will put you in jeopardy of violating our data integrity policy. Additional instances that do not qualify 
+for an exception include but are not limited to forgetting to submit the notebook assignment or submitting notebook 
+pages completed from a previous semester. 
+ 
+LABORATORY PERFORMANCE  AND PARTICIPATION : To foster a safe and positive learning 
+environment for all students, each in- person laboratory grade includes 5 points for laboratory performance. In the 
+bullet points below, we discuss some of the items that contribute to your performance points. 
+• To make sure you (and your lab partner) complete lab in time, we highly encourage you to arrive outside the 
+laboratory before the official start time and wait for the TA to welcome you into the lab room. Arriving after the 
+start time of your lab can result in points deduction.  
+• You are expected to be prepared. Proper attire must be worn, and safety policies must be followed; see page 
+11 and the Safety Statement on Carmen for more information. 
+• As the laboratory is a common space, you are expected to treat all equipment respectfully and use it properly. 
+• You must follow instructions given in the lab manual and by your TA, and if a mistake is made, adjust your 
+technique or behavior to adhere to these instructions.  
+• Cell phones must be put away in a backpack or bag during lab . Laptops and tablets should never be set 
+directly on the lab bench (due to chemical contamination) before cleaning. Headphone use is strictly prohibited. 
+• Gloves must be taken off before leaving the lab room. Please do not touch the doorknobs or any food or drink 
+items while wearing gloves. 
+• You are expected to complete any in-lab activities before leaving lab unless extenuating circumstances apply. 
+• Y ou must start cleaning up 15 mins before the end of your lab time. 
+• Make sure your TA checks you out before you leave the lab. 
+ 
+Every student will begin each lab period with all 5 performance points. Your TA will deduct points for not following the 
+above guidelines. “Lab Performance and Participation” is a separate assignment in Carmen for each in- person lab. 
+After each lab, your TA will assign you performance and participation points; you do not need to complete this 
+assignment in Carmen. 
+ 
+Please note that students who are continuously late to lab will be asked to meet with the lab supervisors to chat about 
+the recurring lateness first before they can continue working in the lab.  
+                                               AUTUMN 2025  
+10 
+ 
+LABRIGHT POST-LABS:  Post-Labs, available on LabRight, will be completed after most experiments and will 
+contain Data Analysis sections for applicable experiments. You can only access the Post-Labs through Carmen.  
+Only have the Post-Lab open when you are working on it. If the Post -Lab has been idle for more than an hour, quit 
+and save your work, and re- open the link from Carmen. Never open more than one Post -Lab at a time, and never 
+open multiple Post -Labs in multiple tabs or browsers simultaneously. The data integrity policies listed in the 
+Presentation of Data section apply to the data submitted in the LabRight Post-Lab.  
+ 
+You can only submit each Post-Lab once; they will not be reset for any reason. However, you can attempt each Post-
+Lab question twice. After answering a Post-Lab question, you may click on the "How Did I Do?" button at the top of 
+the question to see which answers are incorrect. You can then review the relevant topics and revise your response(s). 
+Your revised response(s) will not be graded until you submit the completed Post -Lab by clicking the "Submit 
+Assignment" button.  
+ 
+Post-Labs are due one week after the completion of the experiment by the start time of your lab period. If the due date 
+of a Post-Lab coincides with a University Holiday, an extension will be applied to that assignment.  Please note that 
+the due dates will not be extended beyond the final deadline i.e. Tuesday, December 9th 2025. 
+Data Analysis Section in Post-Labs : Your Post-Lab assessments for experiments MSR, PbI, LLT, IHT, and 
+GAS include Data Analysis sections that you will use to analyze the data you collected. For these sections, you will 
+receive targeted feedback as you work up your data. When entering numerical values in a Post-Lab, unless otherwise 
+indicated, be sure to follow  the Significant Figure rules outlined in Appendix  D of this lab manual. See the General 
+Information below to learn about the LabRight platform.   
+  
+Students cannot be excused from Post -Labs and Data Analysis Worksheet that have been assigned to them. Only 
+have the assignments open when you are working on it. Failure to purchase access will result in forfeiture of these 
+points. Only performance/participation points will be given to Post-labs submitted after 3 days past the due date. Note: 
+The lab notebook needs to be submitted in order to receive any credit for the Post -labs. Even if 3 days have not 
+elapsed, assignments will not be accepted after Tuesday, December 9
+th 2025 at 11:59 pm. 
+ 
+LABORATORY POLICIES 
+ 
+SUPPLEMENTARY DATA POLICY: If you are unable to collect all the data needed in lab, you should email the 
+lab supervisors within 24 hours of the start of lab. The lab supervisors will review your circumstance and make a 
+decision as to whether you will be provided with supplementary data to replace the data that was not collected. 
+Depending on the type of data you need, points may be deducted from your Presentation of Data and/or procedure 
+questions in the Post-Lab. Please note that contacting the lab supervisors is not an assurance that you will receive 
+data. 
+MISSED LABORATORY POLICY: To ensure a successful and productive lab experience, students are required 
+to attend all labs this semester. Students will be allowed to make- up one lab per semester for any reason. No 
+documentation is required to obtain this make- up lab, but the lab supervisors must be notified of the request for a 
+make-up within 1 week of the missed lab date. These make-up sessions will take place at the same time as your 
+regularly scheduled lab session on the corresponding day and time of your lab on the week of December 1st 
+to December 5 th. The make- up lab cannot be rescheduled for any reason and students are not allowed to 
+attend different lab sessions to complete their make-up lab. 
+  
+Requests for no more than ONE additional make-up lab will be considered and may be approved with no additional 
+penalty in the case of specific university-approved absences (see below). If a second make-up lab is approved without 
+a university approved absence, a 40-point penalty will be applied to the final lab grade. The 40-point grade penalty is 
+applied in a separate column in the Carmen grade book so students can easily see when a grade penalty is applied. 
+If you are approved for a make-up lab for a second missed lab, the make-up will be a digital alternate version of the 
+in-person lab you missed.  No additional lab absences will be allowed, except in cases of significant extenuating 
+circumstances. In such cases, the lab supervisors may review the reasons for the first two missed labs when 
+considering the circumstances of a third missed lab. 
+  
+                                               AUTUMN 2025  
+11 
+ 
+Unfortunately, the 40-point penalty cannot be waived for the following reasons: Lack of preparation, negligence, work 
+schedules, planned vacations, failure to have proper PPE (goggles and Lab coat) and/or lab attire, and exams held 
+during regularly scheduled lab sessions.  
+ 
+The 40- point penalty will be waived for the following reasons with proper documentation: Student -athlete 
+commitments, military commitments, religious obligations, medical emergencies, illness (including COVID-19), death 
+of a family member, childcare issues, or SLDS attendance/deadline modifications. The lab supervisors may request 
+some form of documentation to have the 40- point penalty waived. Please  be sure to email the requested 
+documentation to the email listed at the front of the syllabus within 1 week of the missed lab. Documents sent after 
+one week of the lab may not be considered for removing the 40-point penalty. If you’ll miss a lab due to religious 
+obligations, you must email the lab supervisors by 11:59 PM on Tuesday, September 9th. For more information on 
+accommodations for religious observances, refer to the General Course Information on page 2 of this lab syllabus.  
+ 
+If you miss an in-person lab and want to request make-up, you should email the Lab Supervisors within one week of 
+the missed lab. Students assigned to the end of semester make- up will complete it during their regularly scheduled 
+lab time during the make-up week from December 1st to December 5th  and the make-up cannot be rescheduled. 
+This make-up lab will be unrelated to the lab you missed. 
+ 
+If you are registered with SLDS with Intermittent Flex Plan, please refer to the Intermittent Flex Plan Agreement in 
+your Carmen course for specific policies about missed labs. 
+ 
+If you do not attend the lab, please do NOT submit a Post-Lab. If you do not contact the lab supervisors within a week 
+of an in-person missed lab and submit the in- person Post-Lab for that experiment, you will automatically receive a 
+zero on the assignments, including the notebook upload, and will forfeit the opportunity for a make-up assignment for 
+that experiment. 
+LATE ENROLLMENT: Please note that i f you enrolled in Chem 1210 once the semester begins, you are 
+responsible for ensuring that you did not miss any lab assignments. We strongly suggest that you check the Laboratory 
+Modules in Carmen and note any assignments you may have missed due to your late enrollment. Then reach out to 
+the lab supervisors within one week of your enrollment in the class to request make-ups for any lab assignments you 
+have missed. 
+INCOMPLETE POLICY : While nobody begins the semester anticipating they will receive an incomplete for a 
+course, there are circumstances that may warrant that a student takes an incomplete in the course. In such situations, 
+the Incomplete Policy for General Chemistry Lab will allow you to make-up a maximum of four (4) experiments. All 
+incomplete requests must be made in writing to the lab supervisors  by Tuesday, December 9th  at  11:59 pm. 
+Requests made after the final deadline will only be approved in the case of significant extenuating circumstances. 
+ 
+HEALTH AND SAFETY REQUIREMENTS 
+ 
+MEDICAL INSURANCE COVERAGE:  Due to the potentially dangerous nature of laboratory work, you are 
+required to maintain medical insurance coverage through the Ohio State student health insurance or a private agency 
+when enrolling in chemistry laboratory courses. 
+LAB ROOM SANITIZATION: Students will be required to sanitize all equipment and glassware using the supplied 
+70% ethanol used before leaving lab. Cleaning and sanitizing are part of our regular standard operating procedures 
+that have been approved by the University’s Department of Environmental Health and Safety. Failure to clean and 
+sanitize your equipment and glassware will result in loss of performance points for the experiment of the day. 
+ 
+LABORATORY SAFETY REQUIREMENTS : Students are required to read, understand, and implement the 
+safety precautions indicated in the laboratory manual. The precautions are summarized on a safety statement which 
+must be digitally signed on Carmen by all students during their first laboratory period.  Until this statement is signed, 
+students are not permitted to participate in laboratory activities. Some particularly important parts are: 
+ 
+1. You must wear department-authorized ANSI code goggles in the laboratory. If your goggles are lost, a new pair 
+must be purchased from 180 Celeste Lab. Students in the lab without goggles will incur a 5-point deduction from 
+their lab performance & participation. Continued violations will result in a more severe point penalty and may 
+result in dismissal from the course. Wearing contact lenses is not recommended.  
+2. According to University policy, wearing a face covering in lab is optional (https://safeandhealthy.osu.edu/personal-
+protection-hygiene). Students will need to provide their own face mask if they opt to wear a mask. We recommend  
+                                               AUTUMN 2025  
+12 
+ 
+bringing a second mask to change into after the lab is complete. You should wash any reusable face covering 
+that you wore in lab before wearing again. Please note in the unlikely event your face covering is contaminated 
+by a spill or splash, it may need to be disposed of as hazardous waste. In that case, you will be provided with a 
+disposable mask to complete the day’s lab. 
+3. Each student must wear adequate clothing to reduce the possibility of injury from chemicals or broken glass, 
+including long pants and shoes that cover your entire foot. Students wearing inappropriate attire - including 
+but not limited to shorts, sandals, slippers, spandex or other thin, skin-tight pants, pants with holes, tank 
+tops, or short skirts , leggings - will be sent home.  These students are expected to change and return to 
+complete the experiment in proper attire. Confine long hair. Your ankles should be completely covered.  Please 
+note that this policy is to protect you from chemical burns or spills. 
+4. When in lab all students must wear closed- toe shoes with a high back or closed- heel. The back or heel of the 
+shoe should measure at least 2 inches from the top of the sole of the shoe or where your heel rests. As a 
+guideline, 2 inches is approximately 3 finger widths. The heel of the shoe should accommodate at least  three 
+fingers when measured starting from the sole.  Your foot should also be secure in the shoe and should not slip 
+out while walking or moving around the lab space. For further clarification, refer to question Q11 of the Safety & 
+Lab Policies Quiz. Please do not wear shoes that you might trip in. 
+5. Familiarize yourself with the location of the fire extinguisher and eye wash in the laboratory.   
+6. Promptly report all accidents, no matter how small, to your lab instructor. 
+7. Your work area and common glassware must be cleaned before you leave the lab. After cleaning all glassware, 
+you must sanitize your glassware with the provided 70% ethanol solution. Once you have sanitized all glassware, 
+clean your bench with the provided 70% ethanol.  This ensures that you, and other students who use the space, 
+will have a clean and sanitized workstation. Clean up spills in the balance room by brushing chemicals into a 
+weighing dish.   
+8. No unauthorized experiments are allowed. No chemicals may be removed from the lab.  
+ 
+ 
+ 
+Requirements in this syllabus (assignments, due dates, policies etc.) may be altered ONLY by a Lab 
+Supervisor or the Vice Chair for Undergraduate Studies. Please see the lecture syllabus for pre-
+requisites, goals and learning outcomes, commitment to diversity, and details about recitation, online 
+homework, and exams. All lecture policies still apply to the laboratory. 
+STANDARDS OF ACADEMIC CONDUCT IN GENERAL CHEMISTRY LAB 
+ 
+STUDENT RESPONSIBILITIES: Any graded material submitted in General Chemistry must represent your own 
+work. This includes exams, quizzes, homework, and laboratory assignments, which are to be an individual effort. 
+Unauthorized group efforts by students, use of another student’s course materials, or assistance from individuals who 
+already have taken the course, could place you in jeopardy of violation of the standards for General Chemistry. In 
+some courses, group work is acceptable on certain activities (as explicitly stated by your instructor). In these cases, it 
+is important that you know and understand where authorized collaboration (working in a group) ends and collusion 
+(working together in an unauthorized manner) begins. Identical answers indicate copying or unacceptable group 
+efforts - always answer questions in your own unique words. It is important that you consult with your instructor for 
+clarification on whether or not collaboration is appropriate on an activity. 
+ 
+You should not assist others in violating academic standards. Students supplying materials for others to "look at" may 
+be charged with academic misconduct. Never allow another student access to your P re-Laboratory exercises, lab 
+reports, or other assignments – even after completion of the course. "I didn't know they were going to copy my work" 
+is not an acceptable excuse.  
+Laboratory: Laboratory work is the essence of the science of chemistry. You are expected to perform all parts of the 
+experiments with your own equipment, chemicals, and unknowns. The accumulation of data, calculations derived from 
+that data, and any conclusions or answers to questions associated with that experiment are to be your own work. 
+Academic misconduct involving lab work includes but is not limited to the following: 
+• Laboratory data may not be altered or "made up. All laboratory work must be done in your assigned laboratory 
+room, during your scheduled time period, and under the supervision of your assigned teaching assistant.  
+• Plagiarism or the submission of work based on old material is considered to be academic misconduct no 
+matter how small the infraction. Possession of another student’s lab report(s) will raise immediate concerns 
+about academic misconduct.     
+• Evidence of copying or unauthorized "working together" on laboratory course work will be submitted to COAM. 
+• Individuals retaking the course must complete all work for the course during the current semester, and may 
+not submit any parts of any laboratory assignment from a previous semester (see item #6 in “Ten Suggestions 
+for Preserving Academic Integrity”, http://oaa.osu.edu/coamtensuggestions.html
+).  
+                                               AUTUMN 2025  
+13 
+ 
+• If you are found in violation, COAM will decide what disciplinary and/or grade sanctions you receive. Additional 
+information about COAM policies and procedures can be found at https://oaa.osu.edu/academic-integrity-and-
+misconduct. 
+ 
+CONCLUSION 
+ 
+We are going to have a great semester learning and experimenting together. We know this syllabus is a lot of 
+information to digest at once but remember that the lab team is there to guide you when you have questions. You can 
+find out more about us and the other General Chemistry team members  on the “Contacts” page in Carmen, and to 
+find which one of us has the specific expertise to address your unique needs. We cannot wait to meet you! 

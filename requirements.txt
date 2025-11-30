@@ -1,5 +1,6 @@
 openai 
 langchain
+langchain-community
 langchain-openai
 langchain_pinecone
 langchain[docarray]
